@@ -77,3 +77,9 @@
     font-size: 18px;
     font-weight: 600;
 }
+
+@media screen and (max-width: 600px) {
+    .quizz_questions{
+        font-size: 16px;
+    }
+}
